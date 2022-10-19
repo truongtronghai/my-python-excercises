@@ -1,0 +1,6 @@
+num;date;time;orig;type;action;alert;i/f_name;i/f_dir;proto;src;dst;service;s_port;len;rule;xlatesrc;xlatedst;xlatesport;xlatedport;icmp-type;icmp-code;sys_msgs
+0;30Sep98;11:59:51;208.1.1.1;control;ctl;;daemon;inbound;;;;;;;;;;;;;;started sending log to localhost
+1;30Sep98;11:59:51;208.1.1.1;log;accept;;El90x3;inbound;tcp;192.4.7.171;204.170.22.93;https;1197;44;1;208.1.1.1;204.170.22.93;33548;https;;;
+2;30Sep98;11:59:51;208.1.1.1;log;accept;;El90x3;inbound;tcp;192.4.7.48;209.1.224.13;http;1266;44;1;208.1.1.1;209.1.224.13;33549;http;;;
+3;30Sep98;11:59:51;208.1.1.1;log;accept;;El90x3;inbound;tcp;192.4.7.48;209.1.224.13;http;1267;44;1;208.1.1.1;209.1.224.13;33550;http;;;
+4;30Sep98;11:59:51;208.1.1.1;log;accept;;El90x3;inbound;tcp;192.4.7.48;209.1.224.13;http;1268;44;1;208.1.1.1;209.1.224.13;33551;http;;; 

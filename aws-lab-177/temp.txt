@@ -1,0 +1,3 @@
+Hello AWS Lamda.
+Nice to see you.
+What can you do for me in cloud computing?
